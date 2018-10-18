@@ -1,5 +1,5 @@
 package com.Programming.BaoZi;
-
+//这个程序是计算指定范围内的完数都有哪些的算法。
 public class WanShu {
 	public static void main(String[] args) {
 		System.out.println("1000之内的完数有：");
